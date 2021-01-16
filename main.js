@@ -35,4 +35,4 @@ const iLoveJavascript = true;
 // console.log(Math.ceil(2.2)); // 3
 
 const cat = 'kitty';
-console.log(cat.length); // 5
+// console.log(cat.length); // 5
